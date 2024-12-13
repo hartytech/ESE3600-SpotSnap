@@ -44,6 +44,7 @@ The **Cleanliness Score Camera Module** is a cutting-edge TinyML-driven solution
 - Integrate advanced sensing like LiDAR for 3D modeling.
 - Develop partnerships for pilot testing with major hospitality chains.
 - Expand applications to rideshare vehicles, warehouses, and supermarkets.
+- Develop IOS app for managers to monitor the statuses of rooms across their properties.
 
 ## 🌟 Vision
 The Cleanliness Score Camera Module redefines cleanliness monitoring, improving operational efficiency, enhancing guest satisfaction, and promoting sustainability. With further development, this technology will set new standards across property management and beyond.
