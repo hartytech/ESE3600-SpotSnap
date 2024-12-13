@@ -30,7 +30,7 @@ The **Cleanliness Score Camera Module** is a cutting-edge TinyML-driven solution
   - Plans for an iOS app and API/SDK compatibility.
 
 ## 🎥 Demo
-👉 [Watch the Demo Video](2e422f98aea44da5a9d92be4966d9ae4.mov)
+👉 [Watch the Demo Video]([2e422f98aea44da5a9d92be4966d9ae4.mov](https://drive.google.com/file/d/10b_yUW7acB7K0PFFv-OVC8zF0EC2tQSR/view))
 
 ## 🛑 Challenges & Future Work
 ### Challenges:
