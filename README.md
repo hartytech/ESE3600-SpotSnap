@@ -16,6 +16,7 @@ The **Cleanliness Score Camera Module** is a cutting-edge TinyML-driven solution
 - **Total**: 930 images across 3 categories (Clean, Slightly Untidy, Dirty).
 
 ### Model:
+👉 [Build & Test on Colab](https://colab.research.google.com/drive/1uMgqam1KtipoWZ-lOsukKIm3BNN0Nitc?usp=sharing)
 - **Architecture**: CNN with 96x96 RGB input, 3 convolutional layers, ReLU activations, and dropout for overfitting prevention.
 - **Accuracy**:
   - Test Accuracy (3-Class): **81.48%**
@@ -30,7 +31,7 @@ The **Cleanliness Score Camera Module** is a cutting-edge TinyML-driven solution
   - Plans for an iOS app and API/SDK compatibility.
 
 ## 🎥 Demo
-👉 [Watch the Demo Video]([2e422f98aea44da5a9d92be4966d9ae4.mov](https://drive.google.com/file/d/10b_yUW7acB7K0PFFv-OVC8zF0EC2tQSR/view))
+👉 [Watch the Demo Video](https://drive.google.com/file/d/10b_yUW7acB7K0PFFv-OVC8zF0EC2tQSR/view)
 
 ## 🛑 Challenges & Future Work
 ### Challenges:
